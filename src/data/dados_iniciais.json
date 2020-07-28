@@ -1,183 +1,183 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "NINEXT",
+      "link": "https://www.youtube.com/user/nyxeninext",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Camisa 10, Europeu, Ensaboado, Rasgante de SMG",
+        "url": "https://www.youtube.com/user/nyxeninext"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "CODFLIX",
+          "url": "https://www.youtube.com/watch?v=AsoQkmRiZjE&t=1029s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "👑 INSANO REI DO 3X1 👑 FT. NAGA E DEFT * COD: WARZONE *",
+          "url": "https://www.youtube.com/watch?v=Zxd5FiJDUXE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "A MELHOR ARMA DO WARZONE? GALIL OVERPOWER! * CALL OF DUTY: WARZONE *",
+          "url": "https://www.youtube.com/watch?v=fYjBWzIM8KI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "ESSE VÍDEO MERECE SEU LIKE!!! - CALL OF DUTY: WARZONE",
+          "url": "https://www.youtube.com/watch?v=mxXZSF-xSgY"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "DESCOBRIRAM MEU TALENTO!!! - CALL OF DUTY: WARZONE",
+          "url": "https://www.youtube.com/watch?v=C1n65LmRy2A"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "🔥 A GAMEPLAY MAIS INSANA QUE VOCÊ VAI VER HOJE - SOLO X TRIO WORLD RECORD - COD: WARZONE",
+          "url": "https://www.youtube.com/watch?v=HSMnCZMN38c&t=1258s"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "😱 NOVO RECORDE MUNDIAL DE SOLO KILLS? DUO VS TRIO STIMULUS - PARTIDA COMPLETA - COD: WARZONE",
+          "url": "https://www.youtube.com/watch?v=AZBfTHlsnaQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "ATUALIZADO: AS MELHORES CLASSES DO COD: WARZONE!! * CLASSES DO NINEXT * CALL OF DUTY: WARZONE",
+          "url": "https://www.youtube.com/watch?v=vw1Rc_gzuHY"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "STOLEN",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "IRRRU BEIJO DO MONSTRO",
+        "url": "https://www.youtube.com/watch?v=qEQKXkbh58c&t=5s"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=E7_TwuIaSNs"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=zzJse1lZLoc&t=2s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=GWRMTQAtRXs"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=IfEHrr6ep90"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=kK4MrkVNyoA"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "HAYASHI",
+      "cor": "#orange",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "O FUNCIONÁRIO GRATUITO DA ACTIVISION",
+        "url": "https://www.youtube.com/watch?v=kmcq6am69wA"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=i9bT4rD0trA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=lh6CJ1VBSTs"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=6gPNEyaSs1Y"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=PfYGWyPWQ0A"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "CAPRIO",
+      "cor": "grey",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=FphgS-Jk2yc&t=505s"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=xVZFemeC6M8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=m4NqJTcfPTA"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=NJgQ_6M5kro"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "TONYBOY",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Rushador e não vai perder tempo não",
+        "url": "https://www.youtube.com/watch?v=R71NYiVm6cg"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=CsNG20GKhCg"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=N-rDPWEwGSA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=eeKwW6oEYJA"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=UAMfOqHsHAM&t=21s"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Qrfg0ZLV8qA"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Paranga",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Índio de rei da sniper?",
+        "url": "https://www.youtube.com/watch?v=yWCvHCwhNhE"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=ZKOQrH4qywg"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=XgdtbbkYMzk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=1_x4MkxhZmU&t=224s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=pbf78OOOXTE"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=waaV15zOPqk"
         }
       ]
     }
